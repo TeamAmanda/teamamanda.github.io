@@ -675,7 +675,6 @@ p {
 		height: 700px;
 	}
 	#about .about .col-left .about-img::after {
-		left: -35px;
 		top: 34px;
 		height: 100%;
 		width: 100%;
