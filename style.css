@@ -671,10 +671,11 @@ p {
 		flex-direction: row;
 	}
 	#about .col-left {
-		width: 700px;
-		height: 700px;
+		width: 800px;
+		height: 800px;
 	}
 	#about .about .col-left .about-img::after {
+		left: -20px;
 		top: 34px;
 		height: 100%;
 		width: 100%;
