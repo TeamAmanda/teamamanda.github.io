@@ -671,14 +671,16 @@ p {
 		flex-direction: row;
 	}
 	#about .col-left {
-		width: 800px;
-		height: 800px;
+		width: 500px;
+		height: 500px;
+		padding-left: 20px;
 	}
 	#about .about .col-left .about-img::after {
-		left: -20px;
+		left: -45px;
 		top: 34px;
 		height: 100%;
 		width: 100%;
+		border: 10px solid crimson;
 	}
 	#about .col-right {
 		text-align: left;
