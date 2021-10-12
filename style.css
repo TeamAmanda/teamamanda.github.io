@@ -495,7 +495,6 @@ p {
 	height: 100%;
 	width: 100%;
 	position: relative;
-	border: 10px solid white;
 }
 #about .col-left .about-img::after {
 	content: '';
@@ -504,6 +503,7 @@ p {
 	top: 19px;
 	height: 100%;
 	width: 100%;
+	border: 7px solid crimson;
 	z-index: -1;
 }
 /* End About Section */
