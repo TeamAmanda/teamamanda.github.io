@@ -467,6 +467,7 @@ p {
 	text-align: center;
 	max-width: 1200px;
 	margin: 0 auto;
+	padding: 100px 20px;
 }
 #about .col-left {
 	width: 500px;
