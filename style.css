@@ -672,15 +672,14 @@ p {
 	}
 	#about .col-left {
 		width: 600px;
-		height: 400px;
+		height: 600px;
 		padding-left: 60px;
 	}
 	#about .about .col-left .about-img::after {
 		left: -45px;
 		top: 34px;
-		height: 98%;
-		width: 98%;
-		border: 10px solid crimson;
+		height: 100%;
+		width: 100%;
 	}
 	#about .col-right {
 		text-align: left;
