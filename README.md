@@ -2,4 +2,4 @@
 [Watch Now](https://teamamanda.github.io/My-Website)
 
 ## Preview
-![Preview](./img/Preview.png)
+![Preview](./img/WebPreview.png)
