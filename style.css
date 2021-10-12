@@ -502,9 +502,8 @@ p {
 	position: absolute;
 	left: -33px;
 	top: 19px;
-	height: 98%;
-	width: 98%;
-	border: 7px solid crimson;
+	height: 100%;
+	width: 100%;
 	z-index: -1;
 }
 /* End About Section */
